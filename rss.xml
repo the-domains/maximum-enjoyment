@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Maximum Enjoyment]]></title>
         <description><![CDATA[Maximum Enjoyment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maximum-enjoyment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 14:59:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 14:59:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maximum-enjoyment/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/039cd1be-1e69-4472-8571-4ae2867aebf2.jpg">]]></description>
+            <link>https://thegrid.ai/maximum-enjoyment/cba5c476-e542-42fa-aee1-c973b09133ff/index.html</link>
+            <guid isPermaLink="false">cba5c476-e542-42fa-aee1-c973b09133ff</guid>
+            <pubDate>Sun, 24 Jan 2016 14:59:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f7df9f-598b-4ca9-8ee4-025803693f19.jpg">]]></description>
-            <link>undefined4eb4a52d-e1c5-4ece-a9b9-f26d35ea1b17/index.html</link>
+            <link>https://thegrid.ai/maximum-enjoyment/4eb4a52d-e1c5-4ece-a9b9-f26d35ea1b17/index.html</link>
             <guid isPermaLink="false">4eb4a52d-e1c5-4ece-a9b9-f26d35ea1b17</guid>
             <pubDate>Sun, 24 Jan 2016 14:59:24 GMT</pubDate>
         </item>
